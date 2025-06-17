@@ -1,6 +1,6 @@
 # E-Commerce Platform (Microservices Architecture)
 
-This is a full-stack e-commerce application built using Spring Boot microservices, Docker, OAuth2, Stripe API, Redis, and more.
+This is a backend e-commerce application built using Spring Boot microservices, Docker, OAuth2, Stripe API, Redis, and more.
 
 ## 🔧 Services
 
