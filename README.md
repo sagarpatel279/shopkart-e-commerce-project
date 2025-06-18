@@ -13,5 +13,5 @@ This is a backend e-commerce application built using Spring Boot microservices, 
 
 ## 🧰 Tech Stack
 - Java, Spring Boot, Spring Security
-- Redis, MySQL, Docker, OAuth2
-- Stripe API, Apache Kafka, GitHub Actions
+- Redis, MySQL, Docker, OAuth2, Jwt
+- Stripe API, Apache Kafka
