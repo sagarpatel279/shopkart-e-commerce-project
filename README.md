@@ -7,9 +7,11 @@ This is a backend e-commerce application built using Spring Boot microservices, 
 | Service           | Description                                 | GitHub Link                                           |
 |-------------------|---------------------------------------------|--------------------------------------------------------|
 | 🛍 Product Service | Manages product catalog                    | [product-service](https://github.com/sagarpatel279/shopkart-product-catalog-service) |
-| 🔐 Auth Service    | Self User Serive with JWT tokens          | [auth-service][self-service](https://github.com/sagarpatel279/shopkart-authentication-service) |
-| 🔐 Auth Service2    | Handles user login/signup and JWT tokens | [auth-service][OAuth2](https://github.com/sagarpatel279/shopkart-authorization-oauth2) |
+| 🔐 Auth Service    | Self User Serive with JWT tokens          | [auth-service (self-service)](https://github.com/sagarpatel279/shopkart-authentication-service) |
+| 🔐 Auth Service2   | Handles user login/signup and JWT tokens  | [auth-service (OAuth2)](https://github.com/sagarpatel279/shopkart-authorization-oauth2) |
 | 💳 Payment Service | Integrates with Stripe for payments       | [payment-service](https://github.com/sagarpatel279/shopkart-payment-service) |
+| ✉️ Email Service   | Email Service for sending mail on sign up using Apache Kafka| [email-service](https://github.com/sagarpatel279/shopkart-email-service) |
+
 
 ## 🧰 Tech Stack
 - Java, Spring Boot, Spring Security
